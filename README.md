@@ -6,7 +6,7 @@
 
 This repository hosts the code for the StegTechHub tooling website. The website provides a centralized platform for accessing various development tools and resources.
 
-# Technologies Used
+## Technologies Used
 
 The project leverages the following technologies:
 
